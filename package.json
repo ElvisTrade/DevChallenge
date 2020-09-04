@@ -6,7 +6,7 @@
   "dependencies": {
     "email-validator": "^2.0.4",
     "google-libphonenumber": "^3.2.8",
-    "papaparse": "^5.1.1"
+    "papaparse": "^5.2.0"
   },
   "devDependencies": {},
   "scripts": {
